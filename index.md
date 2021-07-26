@@ -4,5 +4,5 @@ This is a repository comprised of all of the work I've done during my CodeWave c
 
 ## Rolling Stones Tribute Page
 
-[rollingstones/rollingstones.html.html](Click me)
+[Click me](rollingstones/rollingstones.html.html)
 
