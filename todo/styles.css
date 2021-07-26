@@ -1,0 +1,24 @@
+.typography-example-2 {
+    background: #fff;
+    color: #000;
+    border: .5em solid;
+    font-size: 1.5em;
+    padding: 1em 0;
+    text-align: center
+}
+
+.typography-example-2 .title {
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .4em;
+    padding-left: .4em
+}
+
+.typography-example-2 .author {
+    color: #888;
+    font-size: .7em;
+    font-weight: 300;
+    font-style: italic;
+    letter-spacing: .12em;
+    padding-left: .12em
+}

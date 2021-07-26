@@ -1,0 +1,23 @@
+html {
+    background-color: cornsilk;
+}
+
+#title {
+    text-align: center;
+}
+
+#smilingmen {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img-caption {
+    text-align: center;
+    font-size: 1.4rem;
+}
+
+#headline {
+    text-align: center;
+
+}
