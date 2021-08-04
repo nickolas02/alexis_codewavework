@@ -27,7 +27,36 @@
 .projects {
     margin-right: 80%;
     margin-top: 450px;
-    margin-left: -50%;
+    margin-left: 10px;
+}
+
+.links {
+    justify-content: center;
+}
+.links:hover {
+    filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);
+    margin-right: 100px;
+    
+}
+
+.proj {
+    margin-right: 100px;
+    margin-left: 300px;
+}
+
+img {
+    
+    -webkit-filter:grayscale(100%)
+}
+img:hover {
+    -webkit-filter: grayscale(0%);
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+    
+
 }
 
 body {
