@@ -1,0 +1,37 @@
+.codewave {
+    align-content: center;
+    justify-content: center;
+    margin-right: 10px;
+    margin-left: 100px;
+}
+
+.name {
+    margin-right: 10px;
+    margin-left: 100px;
+    
+
+}
+
+.beach {
+    margin-right: 10px;
+    margin-left: 100px;
+    
+}
+
+.coders {
+    margin-right: 10px;
+    margin-left: 100px;
+
+}
+
+body {
+    text-align: right;
+    float: right;
+    background-color: #EEF1EF;
+
+}
+
+h1 {
+    color: black;
+    font-size: 30px;
+}
