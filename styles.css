@@ -24,6 +24,12 @@
 
 }
 
+.projects {
+    margin-right: 80%;
+    margin-top: 450px;
+    margin-left: -50%;
+}
+
 body {
     text-align: right;
     float: right;
