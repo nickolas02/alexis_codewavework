@@ -1,0 +1,162 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+
+.hero { 
+    background-image:url('https://media.istockphoto.com/photos/surfrider-beach-malibu-night-picture-id1073991258?k=6&m=1073991258&s=612x612&w=0&h=Mu4TV44E3tT2PvV1xwArM2zuhao8apKPKuPXzHDo31E=');
+    background-size:cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    padding: 0 20px;
+    justify-content: center;
+
+}
+
+.hero h1 { 
+    font-size: 75px;
+    color:tan;
+    font-family: 'Dancing Script', cursive;;
+}
+
+.hero p { 
+    color:seashell;
+    font-family: 'Dancing Script', cursive;;
+    font-size: 50px;
+}
+
+.hero .button { 
+    font-size: 30px;
+    color: seashell;
+    border: black 1px solid;
+    padding: 10px 2px;
+    border-radius: 100px;
+    margin-top: 20px;
+
+}
+
+.hero .button:hover{ 
+    background: tan;
+}
+
+#section-a { 
+    font-size: 25px;
+    color: tan;
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    font-size: 35px;
+    font-family: 'Dancing Script', cursive;;
+
+ 
+}
+
+#section-b { 
+
+
+}
+
+ul { 
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   background-color: #333;
+}
+
+li { 
+    display: inline;
+    float: left;
+}
+
+a { 
+    display: block;
+    padding: 8px;
+}
+
+.Villain { 
+    background-image: url( 'https://media.timeout.com/images/103939427/image.jpg');
+    background-size:cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    padding: 0 20px;
+    justify-content: center;
+}
+
+.Villain h1 { 
+    font-size: 75px;
+    font-size: 75px;
+    color: seashell;
+    font-family: 'Dancing Script', cursive;;
+    align-self: center;
+    
+}
+.Villain p { 
+    color: seashell;
+   font-size: 35px;
+}
+.Villain .button2 {  
+    font-size: 35px;
+    color:seashell;
+    border: black 1px solid;
+    padding: 10px 2px;
+    border-radius: 100px;
+    margin-top: 20px;
+
+}
+
+.villain .button2:hover{ 
+    background: tan;
+}
+
+#Rguide { 
+    font-family: 'Dancing Script', cursive;;
+    font-size: 35px;
+}
+
+.empress { 
+    background-image: url( 'https://www.californiabeaches.com/wp-content/uploads/2014/09/bigs-Zuma-Beach-in-Malibu-CA-4379754-Large-1000x683.jpg');
+    background-size: cover;
+    background-position: center;
+ 
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    padding: 0 20px;
+    justify-content: center;
+  
+    height: 100vh;
+ 
+}
+
+.empress h1 { 
+    color:black;
+    font-family: 'Dancing Script', cursive;;
+    font-size: 50px;
+
+}
+
+.empress table { 
+    font-size: 25px;
+    color:black;
+    margin-top: 20px;
+}
+
+.empress p { 
+    font-size: 25px;
+}
+
+.empress .weee { 
+    font-size: 30px;
+    color: seashell;
+    border: black 1px solid;
+    padding: 10px 2px;
+    border-radius: 100px;
+    margin-top: 20px;
+
+}
